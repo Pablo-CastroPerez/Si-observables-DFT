@@ -55,4 +55,4 @@ Badges for tools used:
 
 ## Note
 
-This was done for educational purposes only and contain certain oversimplifications, such as calculating the sound speed directly from the bulk modulus instead of elastic coefficients. The results are not meant to be used a rigorous data.
+This was done for educational purposes only and contain certain oversimplifications, such as calculating the sound speed directly from the bulk modulus instead of elastic coefficients. The results are not meant to be used as rigorous data.
