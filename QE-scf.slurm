@@ -5,13 +5,13 @@
 #    Batch system: Slurm
 #
 #
-#SBATCH --job-name=QE_lecture
+#SBATCH --job-name=<JOB_NAME>
 #SBATCH --nodes=1
 #SBATCH --tasks-per-node=36
 #SBATCH --exclusive
 #SBATCH --time=00:15:0
 
-#SBATCH --account=account_code_here
+#SBATCH --account=<ACCOUNT_CODE>
 #SBATCH --partition=standard
 #SBATCH --qos=short #standard 
 
